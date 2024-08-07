@@ -1,4 +1,4 @@
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0xZGt6a2tubGhsbHg0NzF1NWl0bzNsZmducmMyd3prNXpxdzg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBC5foQmcOkdq/giphy.webp"/> Bienvenid@ al GitHub de Condor Coders
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0xZGt6a2tubGhsbHg0NzF1NWl0bzNsZmducmMyd3prNXpxdzg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBC5foQmcOkdq/giphy.webp" width = "100"/> Bienvenid@ al GitHub de Condor Coders
 
 ![Banner de Condor Coders](banner-github-condor-coders.png)
 
