@@ -13,10 +13,6 @@
 
 - ❓ Ask me about anything related to the MERN stack, RESTful APIs, and related technologies
   
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0xZGt6a2tubGhsbHg0NzF1NWl0bzNsZmducmMyd3prNXpxdzg3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBC5foQmcOkdq/giphy.webp" align="center" style="width: 20%" Welcome!/>
-</div> 
-
 <br/>
 
 
