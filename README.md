@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Condor Coders
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYxeHplMjB2ZnloamhoOTViN2E2MTY2OTJ5MGtoeDQza3lsbW5nMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt5PnJVtHuy2s/giphy.gif" width="100"/> Bienvenid@ al GitHub de Condor Coders
 
 ![Banner de Condor Coders](banner-github-condor-coders.png)
 
