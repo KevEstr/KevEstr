@@ -1,4 +1,4 @@
-# <img src="https://giphy.com/embed/Pt5PnJVtHuy2s" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dancing-dance-penguin-Pt5PnJVtHuy2s"/> Bienvenid@ al GitHub de Condor Coders
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTYxeHplMjB2ZnloamhoOTViN2E2MTY2OTJ5MGtoeDQza3lsbW5nMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pt5PnJVtHuy2s/giphy.webp"/> Bienvenid@ al GitHub de Condor Coders
 
 ![Banner de Condor Coders](banner-github-condor-coders.png)
 
