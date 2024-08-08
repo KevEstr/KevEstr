@@ -6,12 +6,15 @@
 ### <div align="center">I'm Kevin, a full-stack freelance developer 👨‍💻 and web development teacher 👨‍🏫🚀</div>  
   
 
-- 🔭 I’m currently studying Systems Engineering at the University of Antioquia  
+- 🔭 Studying Systems Engineering at the University of Antioquia  
   
-
 - 🌱 I’m currently learning Data Science and Machine Learning  
 
 - ❓ Ask me about anything related to the MERN stack, RESTful APIs, and related technologies
+
+- 🌟 I enjoy tackling challenges, seeking new job opportunities, and constantly learning more about technologies
+
+
   
 <br/>
 
