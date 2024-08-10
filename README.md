@@ -1,4 +1,3 @@
-# <img src="./github-header-image.png" style="width: 100%;" />
 
 <div align="center">
 <a href="https://x.com/EstrKev" target="_blank">
