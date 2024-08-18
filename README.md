@@ -8,19 +8,14 @@
 </a> 
 </div>  
 
-### <div align="center">I'm Kevin, a full-stack freelance developer 👨‍💻 and web development teacher 👨‍🏫🚀</div>  
+### <div align="center"> ¡Hey!👋 I'm Kevin, Full-Stack Developer | Web Development Instructor 👨‍🏫 | Systems Engineering Student👨‍💻 </div>  
   
+- 📚 Pursuing Systems Engineering @ Universidad of Antioquia
+- 🔎 Currently diving into Data Science & Machine Learning
+- 💻 Experienced in MERN stack, RESTful APIs, and teaching web development
+- 🚀 Passionate about solving challenges and seeking new opportunities to grow
 
-- 🔭 Studying Systems Engineering at the University of Antioquia  
-  
-- 🌱 I’m currently learning Data Science and Machine Learning  
-
-- ❓ Ask me about anything related to the MERN stack, RESTful APIs, and related technologies
-
-- 🌟 I enjoy tackling challenges, seeking new job opportunities, and constantly learning more about technologies
-
-
-  
+💼 <div align="center"> **Ready to be amazed? Get a glimpse of what I do! [Discover my portfolio!](https://portfoliokevestr.vercel.app/)** </div>
 <br/>
 
 
