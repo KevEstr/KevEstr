@@ -15,7 +15,7 @@
 - 💻 Experienced in MERN stack, RESTful APIs, and teaching web development
 - 🚀 Passionate about solving challenges and seeking new opportunities to grow
 
-💼 <div align="center"> **Ready to be amazed? Get a glimpse of what I do! [Discover my portfolio!](https://portfoliokevestr.vercel.app/)** </div>
+### <div align="center"> 💼 Ready to be amazed? Get a glimpse of what I do! [Discover my portfolio!](https://portfoliokevestr.vercel.app/) </div>
 <br/>
 
 
