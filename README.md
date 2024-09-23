@@ -8,7 +8,7 @@
 </a> 
 </div>  
 
-### <div align="center"> ¡Hey!👋 I'm Kevin, Full-Stack Developer | Web Development Instructor 👨‍🏫 | Systems Engineering Student👨‍💻 </div>  
+### <div align="center"> ¡Hey!👋 I'm Kevin, Full-Stack Developer | Web Development Teacher 👨‍🏫 | Systems Engineering Student👨‍💻 </div>  
   
 - 📚 Pursuing Systems Engineering @ Universidad of Antioquia
 - 🔎 Currently diving into Data Science & Machine Learning
